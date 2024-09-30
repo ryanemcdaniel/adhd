@@ -1,0 +1,12 @@
+.code
+.DS_store
+.husky
+.idea
+.terraform
+dist
+node_modules
+*.hcl
+*.zip
+.env.local
+*.tfplan
+locals.tf
